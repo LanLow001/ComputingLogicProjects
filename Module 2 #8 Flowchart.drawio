@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="Q__76AnN2j0bwg6aH1MV">
+    <mxGraphModel dx="999" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&quot;Enter the number of miles driven&quot; , milesDriven" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="311" as="geometry" />
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="90" as="sourcePoint" />
+            <mxPoint x="380" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&quot;Enter the number of gallons of gas used&quot; , gasUsed" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="milesPerGallon = milesDriven / gasUsed" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&quot;The miles per gallon for this example is&quot; , milesPerGallon" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="530" as="sourcePoint" />
+            <mxPoint x="340" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gvdoEolSTq_dbZ1ZOb-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TLVcvjRSm8qz-eIIhynE" name="Page-2">
+    <mxGraphModel dx="1091" dy="1628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="-104" y="-518" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-34" y="-325" as="sourcePoint" />
+            <mxPoint x="-34" y="-296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="laborCost - 30" vertex="1">
+          <mxGeometry height="60" width="120" x="-98" y="-401" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Loop" vertex="1">
+          <mxGeometry height="80" width="120" x="-87" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="hours &amp;lt;/= 0" vertex="1">
+          <mxGeometry height="80" width="80" x="-62" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="895" width="149" x="46" y="-148" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&quot;Enter the number of hours projected for the remodeling job&quot;&amp;nbsp;&lt;div&gt;GET hours&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76" width="132" x="-91" y="-62" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&quot;Enter the wholesale cost of the materials&quot;&lt;div&gt;Get cost&lt;/div&gt;" vertex="1">
+          <mxGeometry height="71" width="120" x="-85" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="totalLabor = laborCost * hours" vertex="1">
+          <mxGeometry height="60" width="120" x="-87" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="totalMaterials = cost* 1.20" vertex="1">
+          <mxGeometry height="60" width="120" x="-87" y="339" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="totalCostProject = totalLabor + totalMaterials" vertex="1">
+          <mxGeometry height="60" width="120" x="-87" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-40" y="-224" as="sourcePoint" />
+            <mxPoint x="-40" y="-195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-25.5" y="-94" as="sourcePoint" />
+            <mxPoint x="-25.5" y="-65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="count &amp;lt;-- 0" vertex="1">
+          <mxGeometry height="60" width="120" x="-98" y="-289" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="count &amp;lt;-- count + 1" vertex="1">
+          <mxGeometry height="60" width="120" x="-89" y="527" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&quot;Remodeling job #&quot; + count + &quot;costs a total of $&quot; + totalCostProject" vertex="1">
+          <mxGeometry height="85" width="190" x="-140" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-44" y="-435" as="sourcePoint" />
+            <mxPoint x="-44" y="-406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=0;entryX=1.04;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-49" y="746" />
+            </Array>
+            <mxPoint x="-49" y="707" as="sourcePoint" />
+            <mxPoint x="45.999999999999964" y="746" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-30" y="19" as="sourcePoint" />
+            <mxPoint x="-30" y="48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-13" y="115" as="sourcePoint" />
+            <mxPoint x="-13" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-37" y="217" as="sourcePoint" />
+            <mxPoint x="-37" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-38" y="308" as="sourcePoint" />
+            <mxPoint x="-38" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-28" y="402" as="sourcePoint" />
+            <mxPoint x="-28" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-29" y="494" as="sourcePoint" />
+            <mxPoint x="-29" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-35" y="590" as="sourcePoint" />
+            <mxPoint x="-35" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2LhOtfYGdn5Q_sDsYBU-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="-100" y="774" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
