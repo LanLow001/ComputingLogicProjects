@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="F6yclmceGZh44y6xNTY8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-17" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.408;entryY=0.02;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Start" vertex="1">
+          <mxGeometry height="60" width="100" x="430" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="correctGuess &amp;lt;-- 52" vertex="1">
+          <mxGeometry height="100" width="130" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Loop" vertex="1">
+          <mxGeometry height="60" width="100" x="445" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&quot;Enter your guess as a whole numbers between 1-100.&lt;div&gt;&amp;nbsp;If this message pops up, try another number. If you want&lt;/div&gt;&lt;div&gt;&amp;nbsp;to stop guessing, enter 0.&quot;&amp;nbsp;&lt;div&gt;GET guess&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="430" x="270" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="guess == 0" vertex="1">
+          <mxGeometry height="100" width="165" x="412.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="PUT &quot;Thank you for trying.&quot;" vertex="1">
+          <mxGeometry height="70" width="210" x="202.5" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="guess == 0 or guess == correctGuess" vertex="1">
+          <mxGeometry height="110" width="115" x="430" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-9" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="280" />
+              <mxPoint x="730" y="580" />
+              <mxPoint x="487.5" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-10" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-6">
+          <mxGeometry relative="1" x="0.2222" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="505" />
+              <mxPoint x="380" y="585" />
+              <mxPoint x="495" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="End" vertex="1">
+          <mxGeometry height="60" width="100" x="445" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-12" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="PUT &quot;Congratulations, you got it.&quot;" vertex="1">
+          <mxGeometry height="60" width="150" x="590" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-13" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.552;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-14" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.573;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-15" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-16" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-18" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-19" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.526;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-20" edge="1" parent="1" source="CT5DvxuwRGh45kBlqh9c-4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="CT5DvxuwRGh45kBlqh9c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="518" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="CT5DvxuwRGh45kBlqh9c-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
