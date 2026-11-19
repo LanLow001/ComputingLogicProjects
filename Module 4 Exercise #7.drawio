@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UkcjOsyygrYx9vFagztj">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-36" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.39393939393926" y="-97.4242424242425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Start" vertex="1">
+          <mxGeometry height="60" width="100" x="193" y="-186" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-37" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.36363636363626" y="2.575757575757507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" value="&quot;Enter any word to look up&lt;div&gt;&amp;nbsp;in the dictionary&quot;&lt;div&gt;GET correctWord&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69" width="203" x="138" y="-95" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-25" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;">
+          <mxGeometry relative="1" x="0.5264" as="geometry">
+            <Array as="points">
+              <mxPoint x="686.3" y="35" />
+              <mxPoint x="686.3" y="619.2" />
+              <mxPoint x="206" y="619.2" />
+            </Array>
+            <mxPoint x="206.030303030303" y="587.4242424242425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-40" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.36363636363626" y="93.4848484848485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Loop" vertex="1">
+          <mxGeometry height="60" width="100" x="190" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-38" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="231.78787878787875" y="210.151515151515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&quot;Enter a word like you were going&lt;div&gt;&amp;nbsp;through a dictionary that catches your&lt;/div&gt;&lt;div&gt;&amp;nbsp;eye as you try to find the word.&quot;&lt;div&gt;anyWord&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="88" width="328" x="67.5" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="anyWord == correctWord&lt;div&gt;or anyWord == &quot;stop&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="225" x="126" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" value="PUT &quot;I found the correct&lt;div&gt;&amp;nbsp;word&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;in the dictionary.&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69" width="200" x="371" y="752" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="End" vertex="1">
+          <mxGeometry height="60" width="100" x="176" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="53" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="329" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="anyWord == &quot;stop&quot;" vertex="1">
+          <mxGeometry height="100" width="123" x="170" y="656" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-15" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" value="PUT&amp;nbsp;You have stopped searching&lt;div&gt;&amp;nbsp;the dictionary for now.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Try again later.&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69" width="249" x="-158" y="764" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-17" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&quot;Go forward in the dictionary to find the&lt;div&gt;&amp;nbsp;word. Press&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;enter&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;to continue,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;then enter your next word.&quot;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;GET continue&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79" width="312" x="306" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="anyWord &amp;gt; correctWord" vertex="1">
+          <mxGeometry height="100" width="159.5" x="160.25" y="341" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-24" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-19" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" value="&quot;Go backward in the dictionary to find&lt;div&gt;&amp;nbsp;the word. Press enter to continue&lt;/div&gt;&lt;div&gt;&amp;nbsp;and then enter your next word.&quot;&lt;div&gt;GET continue&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76" width="297" x="-134" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-20" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-14">
+          <mxGeometry relative="1" x="-0.01" as="geometry">
+            <Array as="points">
+              <mxPoint x="-168.2" y="267" />
+              <mxPoint x="-168.2" y="631.4" />
+              <mxPoint x="233.5" y="631.4" />
+              <mxPoint x="233.5" y="656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-22" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.568;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-23" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.554;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-26" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-27" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="361" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-29" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.567;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-30" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.592;entryY=-0.145;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-7">
+          <mxGeometry relative="1" x="-0.0017" as="geometry">
+            <Array as="points">
+              <mxPoint x="489.4" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="676" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="676" as="geometry" />
+        </mxCell>
+        <mxCell id="laz7rEQYtjaVk3_dO6iE-39" edge="1" parent="1" source="laz7rEQYtjaVk3_dO6iE-5" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="laz7rEQYtjaVk3_dO6iE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
